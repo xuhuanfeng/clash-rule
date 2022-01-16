@@ -1,0 +1,5 @@
+payload:
+# 内容：pt站点
+# 数量：6条
+  - DOMAIN-SUFFIX,hdtime.org
+  - DOMAIN-SUFFIX,pthome.net
